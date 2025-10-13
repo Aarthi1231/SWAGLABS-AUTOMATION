@@ -15,13 +15,13 @@ It is designed to showcase automation skills in functional testing, reusable key
 5. Git + GitHub – version control
 
 **Run Tests**
-1. Run all tests
+1. Run all tests: 
 robot -d results tests/
 
-2. Run specific test
+2. Run specific test: 
 robot -d results -t "Login With Valid User" tests/
 
-3. Run by tag
+3. Run by tag: 
 robot -d results -i sanity tests/
 
 **Reports & Logs**
