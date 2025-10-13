@@ -1,16 +1,18 @@
 # SWAGLABS-AUTOMATION
 
 **Overview**
+
 This project demonstrates web automation testing for the Swag Labs Demo Application
  using Robot Framework with SeleniumLibrary.
 It is designed to showcase automation skills in functional testing, reusable keyword design, and report generation using Robot’s reporting features.
 
 **Tools & Technologies**
-Python – base language
-Robot Framework – automation framework
-SeleniumLibrary – browser automation
-Robot HTML reports – for test reporting
-Git + GitHub – version control
+
+1. Python – base language
+2. Robot Framework – automation framework
+3. SeleniumLibrary – browser automation
+4. Robot HTML reports – for test reporting
+5. Git + GitHub – version control
 
 **Run Tests**
 1. Run all tests
