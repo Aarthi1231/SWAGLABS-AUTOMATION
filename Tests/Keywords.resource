@@ -23,7 +23,7 @@ Click add to cart
 
 #CHECKOUT
 Click the cart to proceed
-    Click Element    ${CART}
+    Wait Until Keyword Succeeds    30s    2s    Click Element    ${CART}
 Click checkout
     Click Element    ${CHECKOUT}
 Enter Billing details
